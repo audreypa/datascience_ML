@@ -19,7 +19,7 @@
 
 
 
-## Table Of Contents
+<p align="center"> ## Table Of Contents
 
 * [About the Project](#about-the-project)
 * [Contributing](#contributing)
@@ -62,3 +62,4 @@ I am always open to discussions, learning from others, and sharing knowledge. Fe
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+</p>
