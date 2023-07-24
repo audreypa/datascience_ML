@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/audreypa/datascience-ML">
-    <img src="data_science_1.jpg" alt="Logo" width="300" height="200">
+    <img src="data_science_1.jpg" alt="Logo" width="400" height="300">
   </a>
 
   <h3 align="center">DataScience and ML projects</h3>
@@ -11,7 +11,6 @@
     Please see all my datascience projects here
     <br/>
     <br/>
-    .
     <a href="https://github.com/audreypa/datascience-ML/issues">Report Bug</a>
     .
     <a href="https://github.com/audreypa/datascience-ML/issues">Request Feature</a>
