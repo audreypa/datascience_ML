@@ -2,6 +2,10 @@ This project is a Sentiment Analysis of Amazon reviews made during a professiona
 It receives the best grade of the promotion. The certification lasts 75 hours, with less than one week for the project.
 Note that students following this certification are professionals which have a job in parallele.
 
+**Pay attention to:**
+I ran this code on google colab so that I could have a cluster to improve this execution.
+This code can be run by using Spark on your computer (https://spark.apache.org/downloads.html) or by linked a cluster from Databricks (one of the tool I used during the certification), AWS or Google Lab.
+
 
 
 # Part 1 : Data's structure
