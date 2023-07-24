@@ -29,7 +29,9 @@ The goal was to see if a more advanced vectorization technique like TF-IDF gives
 ## Using three classification models
 
 **1) SVM**
+
 **2) Logistic Regression**
+
 **3) Bernouilli**
 
 For each models, I used a pipeline with different n-grams and parameters in order to select the best model.
