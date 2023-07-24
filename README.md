@@ -18,12 +18,11 @@
 </p>
 
 
-
-<p align="center"> ## Table Of Contents 
+## Table Of Contents 
 
 * [About the Project](#about-the-project)
 * [Contributing](#contributing)
-* [Authors](#authors) </p>
+* [Authors](#authors) 
 
 ## About The Project 🧠
 
